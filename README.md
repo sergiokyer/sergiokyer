@@ -1,4 +1,4 @@
-# Console.WriteLine("Sergio Kyer 👨‍💻");
+Sergio Kyer 👨‍💻
 
 💼 Atualmente estou em busca de uma vaga como Desenvolvedor  
 💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev  
