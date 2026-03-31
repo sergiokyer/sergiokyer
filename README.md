@@ -1,22 +1,40 @@
-Console.WriteLine ("Sergio Kyer 👨‍💻");
+Console.WriteLine("Sergio Kyer 🔐");
 
-💼 Atualmente estou em busca de uma vaga como Desenvolvedor  
-💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev  
-
+🛡️ Analista NOC Júnior
+💻 Experiência em suporte técnico e resolução de incidentes
+🌐 Análise de redes (TCP/IP, DNS, portas e conectividade)
+📊 Monitoramento e troubleshooting de ambientes
+🔐 Interesse em segurança da informação e análise de vulnerabilidades
 ---
 
 ## 🛠️ Tecnologias que trabalho:
 
+### 🔐 Redes & Segurança
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF8C00?style=for-the-badge)
+
+---
+
+### 🐧 Sistemas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### ⚙️ Ferramentas
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### 💻 Desenvolvimento
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 🌐 Redes Sociais:
 
